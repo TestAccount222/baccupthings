@@ -14,3 +14,23 @@
 	
 	
 }
+
+@font-face {
+	
+	font-family: gatsby;
+	src: url(../font/GatsbyFLF-Bold.ttf);
+	
+	
+	
+}
+
+
+
+p {
+	
+	
+	font-family: gatsby;
+	font-size: 35px;
+	
+}
+        
